@@ -804,7 +804,7 @@ MonoBehaviour:
   idUri: scores
   postUri: scores
   id: Test_001
-  scorel: 1000
+  score: 1000
   BtnGetTop3: {fileID: 1730067611}
   BtnGetId: {fileID: 1564369229}
   BtnPost: {fileID: 153580449}
