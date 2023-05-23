@@ -1,8 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-
+using UnityEngine.UI;               //UI 를 사용하기위해 
 
 public class UIPanel : MonoBehaviour
 {
@@ -15,9 +14,9 @@ public class UIPanel : MonoBehaviour
     {
         this.gameObject.SetActive(true);
     }
-
     public void Hide()
     {
         this.gameObject.SetActive(false);
     }
+
 }
